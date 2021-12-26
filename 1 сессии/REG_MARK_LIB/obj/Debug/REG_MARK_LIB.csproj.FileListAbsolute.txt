@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\VIN_App-master3\REG_MARK_LIB\bin\Debug\REG_MARK_LIB.dll
+C:\Users\Admin\Desktop\VIN_App-master3\REG_MARK_LIB\bin\Debug\REG_MARK_LIB.pdb
+C:\Users\Admin\Desktop\VIN_App-master3\REG_MARK_LIB\obj\Debug\REG_MARK_LIB.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\VIN_App-master3\REG_MARK_LIB\obj\Debug\REG_MARK_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\VIN_App-master3\REG_MARK_LIB\obj\Debug\REG_MARK_LIB.dll
+C:\Users\Admin\Desktop\VIN_App-master3\REG_MARK_LIB\obj\Debug\REG_MARK_LIB.pdb
