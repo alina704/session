@@ -85,7 +85,7 @@ namespace VIN_LIB
         {
             return GetTransportYear(vinRule.Match(vin));
         }
-
+//////////////////////////////////////////////////////////////////////
         /// <summary>
         /// Разбирает значения, полученные с matched.
         /// </summary>
